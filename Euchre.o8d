@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="8f437fff-fc8f-4abf-a2e6-f77ebff2ac6d">
+  <section name="Main">
+    <card qty="1" id="8c0320d2-7791-4a9b-bbcb-8fc50ffad8c6">Ace of Hearts</card>
+    <card qty="1" id="8ad098c1-ffbf-4d12-a141-7f3b6272c4dc">Ace of Spades</card>
+    <card qty="1" id="34429bfa-8e7c-4fd4-84d0-d526cef9b9c1">Ace of Diamonds</card>
+    <card qty="1" id="62f610ee-9535-4b5d-9659-7789ceeaafa7">Ace of Clubs</card>
+    <card qty="1" id="82b2cf72-ea9e-4cca-a90e-50f8ce98cbe6">King of Clubs</card>
+    <card qty="1" id="21c01754-5884-46b9-a72d-2c544cc99cda">King of Spades</card>
+    <card qty="1" id="12903676-cdd5-47d0-af4e-410cd734edd9">Queen of Clubs</card>
+    <card qty="1" id="ec1ba723-fb84-4a8b-b0b5-7de09619173d">Queen of Spades</card>
+    <card qty="1" id="b86fd37d-b11f-4512-b731-25148d320c6d">King of Diamonds</card>
+    <card qty="1" id="0d81dd02-06ae-4c8c-ac8d-6256e88a8156">King of Hearts</card>
+    <card qty="1" id="634e5c26-eec5-4b63-be94-16f6cae62cac">Queen of Diamonds</card>
+    <card qty="1" id="0f6caf74-4bba-4d54-9361-bb807baaac53">Queen of Hearts</card>
+    <card qty="1" id="30a392dc-8810-4577-97b3-82db4d09ac49">Jack of Clubs</card>
+    <card qty="1" id="39df7349-e420-4c9f-a9fc-aa5e52e8419c">Jack of Diamonds</card>
+    <card qty="1" id="0a1f8d6c-00a7-452f-8ef8-0459e8c4d6ed">Jack of Spades</card>
+    <card qty="1" id="23d73ac9-00e4-4c74-b759-ff55475987c7">Jack of Hearts</card>
+    <card qty="1" id="f84eb6e6-dd9b-423a-8fb6-6e7cff2a7d76">Ten of Clubs</card>
+    <card qty="1" id="cc813430-ad87-430c-81a0-0d606cce918f">Ten of Diamonds</card>
+    <card qty="1" id="53875a93-95a0-44e0-bd20-311ea00709b4">Ten of Spades</card>
+    <card qty="1" id="ef49e12f-73fb-477a-9210-e9ab0469e6a8">Ten of Hearts</card>
+    <card qty="1" id="034bedbd-8706-4218-9ee7-ae5787e5b861">Nine of Clubs</card>
+    <card qty="1" id="6ae6e65c-9a82-4d1e-8288-326eb2829a72">Nine of Diamonds</card>
+    <card qty="1" id="0763abdb-fb48-47a5-8380-7726b7bb0658">Nine of Spades</card>
+    <card qty="1" id="0865f779-179f-4821-ae29-0a1fc674aa01">Nine of Hearts</card>
+  </section>
+  <section name="Main2" />
+</deck>
