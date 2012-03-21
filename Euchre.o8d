@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<deck game="8f437fff-fc8f-4abf-a2e6-f77ebff2ac6d">
-  <section name="Main">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="8f437fff-fc8f-4abf-a2e6-f77ebff2ac6d" shared="True">
+  <section name="Shared">
     <card qty="1" id="8c0320d2-7791-4a9b-bbcb-8fc50ffad8c6">Ace of Hearts</card>
     <card qty="1" id="8ad098c1-ffbf-4d12-a141-7f3b6272c4dc">Ace of Spades</card>
     <card qty="1" id="34429bfa-8e7c-4fd4-84d0-d526cef9b9c1">Ace of Diamonds</card>
@@ -26,5 +26,5 @@
     <card qty="1" id="0763abdb-fb48-47a5-8380-7726b7bb0658">Nine of Spades</card>
     <card qty="1" id="0865f779-179f-4821-ae29-0a1fc674aa01">Nine of Hearts</card>
   </section>
-  <section name="Main2" />
+
 </deck>
