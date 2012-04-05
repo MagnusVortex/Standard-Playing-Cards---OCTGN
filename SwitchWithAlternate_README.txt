@@ -1,6 +1,7 @@
 SwitchWithAlternate() API
+
 For a working example, please see https://github.com/MagnusVortex/Standard-Playing-Cards---OCTGN/tree/Alternate
-The Six Degrees of Kevin Bacon cardset installs into the Standard Playing Cards gamedef. The BettyWhite+MerylStreep deck shows off the examples I will be using in this API.
+The 'Six Degrees of Kevin Bacon' cardset installs into the modified 'Standard Playing Cards' gamedef (version 1.1.3). The 'BettyWhite+MerylStreep' deck shows off the examples I will be using in this API.
 
 Special optional card attribute: "alternate" 
 This property is designed to accept the guid of another card. 
@@ -59,4 +60,4 @@ To divide a card with multiple purposes into individual cards
 With a bit of cleverness, a crafty game developer could potentially hijack this functionality and use it for alternate art. I would recommend against doing this, however, as it would likely mean the inability to utilize the full functionality I've provided without drastic complications. Instead, I'd encourage a feature request for any alternate artwork support game devs find lacking.
 
 For a working example of these features, please see https://github.com/MagnusVortex/Standard-Playing-Cards---OCTGN/tree/Alternate
-The Six Degrees of Kevin Bacon cardset installs into the Standard Playing Cards gamedef. The BettyWhite+MerylStreep deck shows off the example chains from earlier.
+The 'Six Degrees of Kevin Bacon' cardset installs into the modified 'Standard Playing Cards' gamedef (version 1.1.3). The 'BettyWhite+MerylStreep' deck shows off the examples I used earlier in this API.
