@@ -1,3 +1,7 @@
+SwitchWithAlternate() API
+For a working example, please see https://github.com/MagnusVortex/Standard-Playing-Cards---OCTGN/tree/Alternate
+The Six Degrees of Kevin Bacon cardset installs into the Standard Playing Cards gamedef. The BettyWhite+MerylStreep deck shows off the examples I will be using in this API.
+
 Special optional card attribute: "alternate" 
 This property is designed to accept the guid of another card. 
 
